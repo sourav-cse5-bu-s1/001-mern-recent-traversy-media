@@ -24,7 +24,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyODM2NzY5M
 ###
 
 DELETE  http://localhost:5000/api/goals/6283812a1aea762c4ed7fc0e HTTP/1.1
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyODM2NzY5MmQ2ZThkYjNhNzJjZWU3ZSIsImlhdCI6MTY1Mjc4OTM0MiwiZXhwIjoxNjU1MzgxMzQyfQ.HLo6cYKAXgXw49I1dvCm4nEH0IRPUrQY_ereLCLKa6A
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyODM2YTYyMjU5ZjQyN2Q3YWFmNzU5MiIsImlhdCI6MTY1Mjc4NDY1MCwiZXhwIjoxNjU1Mzc2NjUwfQ.x9_TJxO-Qn009_CyzQt4KvoK-9yaJRtnk9mrBghph0w
 
 ### 
 
